@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.sauvere.universite.s6.progevenementielle.ihm;
+package com.sauvere.universite.s6.progevenementielle.dm.ihm;
 
 /**
  *
@@ -47,8 +47,6 @@ public class Login extends javax.swing.JFrame {
         labelUsernameInput.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         labelUsernameInput.setText("Nom d'utilisateur : ");
 
-        textFieldUsername.setText("jTextField1");
-
         javax.swing.GroupLayout panelUsernameLayout = new javax.swing.GroupLayout(panelUsername);
         panelUsername.setLayout(panelUsernameLayout);
         panelUsernameLayout.setHorizontalGroup(
@@ -71,8 +69,6 @@ public class Login extends javax.swing.JFrame {
 
         labelPasswordInput.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         labelPasswordInput.setText("Mot de passe : ");
-
-        textFieldPassword.setText("jTextField1");
 
         javax.swing.GroupLayout panelPasswordLayout = new javax.swing.GroupLayout(panelPassword);
         panelPassword.setLayout(panelPasswordLayout);

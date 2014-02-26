@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.sauvere.universite.s6.progevenementielle;
+package com.sauvere.universite.s6.progevenementielle.dm;
 
 /**
  *

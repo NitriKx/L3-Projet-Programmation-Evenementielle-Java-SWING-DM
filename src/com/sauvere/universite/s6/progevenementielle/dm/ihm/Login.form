@@ -94,9 +94,6 @@
           </Properties>
         </Component>
         <Component class="javax.swing.JTextField" name="textFieldUsername">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="jTextField1"/>
-          </Properties>
         </Component>
       </SubComponents>
     </Container>
@@ -134,9 +131,6 @@
           </Properties>
         </Component>
         <Component class="javax.swing.JTextField" name="textFieldPassword">
-          <Properties>
-            <Property name="text" type="java.lang.String" value="jTextField1"/>
-          </Properties>
         </Component>
       </SubComponents>
     </Container>
